@@ -2,7 +2,7 @@
   "name": "influxdb-nodejs",
   "version": "1.0.0",
   "description": "Node.js client for InfluxDB",
-  "main": "./lib/index.js",
+  "main": "./lib/InfluxDB.js",
   "directories": {
     "doc": "doc",
     "test": "test",
